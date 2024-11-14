@@ -18,4 +18,16 @@ Enable Static Website Hosting: Configure the bucket to host the website, allowin
 Implementation Plan:
 The project begins with a simple HTML file provided to us, which we'll store in a GitHub repository. This setup in GitHub will enable us to manage and track modifications effectively throughout the pipeline.
 
+# See more of this amazing project: https://medium.com/@jlouis26/end-to-end-ci-cd-setup-with-github-and-aws-codepipeline-4f0c5970d931
+
 ![Screenshot 2024-11-13 223811](https://github.com/user-attachments/assets/d23557f2-9fe6-4c75-934e-1c726f0aca0d)
+
+# Conclusion:
+Through this project, we successfully established a CI/CD pipeline using GitHub and AWS CodePipeline, allowing for streamlined and automated website deployment. By hosting our site on an S3 bucket and using GitHub as our code repository, we built a secure, efficient workflow that speeds up development and minimizes manual intervention. This setup enhances deployment speed and reliability while maintaining clear version control. Overall, this project provides a solid foundation for future deployments, ensuring RootsTech's development process remains agile, scalable, and secure.
+
+Happy reading 📃🙏!
+
+Let's keep in touch: 
+GitHub
+LinkedIn
+
