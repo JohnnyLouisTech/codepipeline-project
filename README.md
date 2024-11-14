@@ -1,7 +1,7 @@
 # codepipeline-project
 ## End-to-End CI/CD Setup with GitHub and AWS CodePipeline
 
-#My Scenario:
+# My Scenario:
 Our team at RootsTech was tasked with automating the deployment of a website. This required collaboration with developers on a static site URL and making code modifications in the Git repository to validate the pipeline's functionality.
 CI/CD Pipeline Overview:
 A CI/CD pipeline leverages automation to boost productivity in software development, ensuring higher code quality, faster deployment times, and enhanced security. Automating certain development processes enables seamless integration and delivery.
